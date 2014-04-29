@@ -35,7 +35,6 @@ namespace Practica2
 
 				Console.Write("el precio del tercer producto es: $ "+ prod3 +"  y con iva es: $"+ivaprod3+"\n\n");                   
 
-			Console.Write("\n \nEste programa fue creado por Emmanuel Rubio");
 
 
 			Console.ReadKey(true);
